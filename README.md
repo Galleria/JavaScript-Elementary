@@ -2,13 +2,10 @@
 
 # JavaScript-Elementary
 
-
-
-## Usage
-
-
-
-## Developing
+This repository is created for guiding JavaScript that you may would like to know.
+Trick in this repository is from my experience that I used to solve issues or reduce coding.
+If there is any issues or you want to recommend, please let's me know.
+Thanks,
 
 
 
